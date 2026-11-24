@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Sachit 👋
+# Hey, I'm 1zt0 👋
 
-### `> building things that work.`
+### `> Skidding things that don't really work`
 
 <em>✏️ What you built and why it matters.</em>
 
@@ -23,10 +23,10 @@
 
 ```
 const sachit = {
-  role: "✏️ your role",
-  education: "✏️ your education",
-  focus: ✏️ your focus,
-  philosophy: "Learn by building → Ship → Iterate",
+  role: "✏️ Professional Skid",
+  education: "✏️ High School",
+  focus: ✏️ Malware Analysis,
+  philosophy: "Give me 24 hours to build a crypter and I'll spend the first 21 Skidding off GitHub.",
   available: true,
 };
 ```
@@ -43,13 +43,8 @@ const sachit = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
@@ -87,7 +82,7 @@ const sachit = {
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact Me
 
 <div align="center">
 
