@@ -4,17 +4,6 @@
 
 ### `> Skidding things that don't really work`
 
-<em>✏️ What you built and why it matters.</em>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sachit--portfolio.vercel.app-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://sachin-portfoli.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-sachit1751-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/✉️_Email-sachit1751@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-
-<br/>
-
-<em>✏️ What you built and why it matters.</em>
-<em>✏️ What you built and why it matters.</em>
-
 </div>
 
 ---
