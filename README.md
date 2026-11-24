@@ -11,12 +11,11 @@
 ## ⚡ What I Do
 
 ```
-const sachit = {
   role: "✏️ Professional Skid",
   education: "✏️ High School",
   focus: ✏️ Malware Analysis,
   philosophy: "Give me 24 hours to build a crypter and I'll spend the first 21 Skidding off GitHub.",
-  available: true,
+  available: fh,
 };
 ```
 
